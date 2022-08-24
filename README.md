@@ -8,6 +8,8 @@
       - Email: luuisrogerioo@gmail.com
       - Twitter: @Luis_ROCruz
 
+
+
 - 👋 Oi oi! Sou o @LuisROCruz, tenho 24 anos de idade, nascido em Valença-BA, mas moro em atualemnte em Salvador-BA;
 - 🧑‍💻 Sou Analista de QA, já atuei como Fisioterapeuta anteriormente mas isso é passado;
 - 👀 Sou interessado no processo lógico de criação de coisas, o que explica o interesse em programação, mas especificamente, eu gosto de observar as coisas funcionando (como deveriam ou não)
